@@ -1,0 +1,16 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "Customer API Plugin",
+  "SystemName": "Misc.CustomerApi",
+  "Version": "1.0",
+  "Author": "Mahmoud Osman",
+  "FileName": "Nop.Plugin.Misc.CustomerApi.dll",
+  "Description": "A plugin for integrating NopCommerce with Dynamics CRM.",
+  "Route": "CustomerApi",
+  "Enabled": true,
+  "Installed": false,
+  "Dependencies": [
+    "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "Microsoft.Xrm.Sdk"
+  ]
+}

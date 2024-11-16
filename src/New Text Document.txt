@@ -1,0 +1,1 @@
+AuthType=OAuth; Url=https://ititasks.crm11.dynamics.com/; ClientId=cefdd43b-ca9d-4043-9285-9b9006c48f24; ClientSecret=MVh8Q~MZWuW0IVTDJMq1yJP8npKZiQtraxvsNaEL; Authority=alans@CRM194480.onmicrosoft.com;
